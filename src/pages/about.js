@@ -8,5 +8,5 @@ const AboutPage = () => {
     </Layout>
   )
 }
-// Step 3: Export your component
+
 export default AboutPage
